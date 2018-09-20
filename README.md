@@ -59,5 +59,5 @@ Docker 镜像搜索：2822590253 / openshift       OR         doudoubing/cundang
 （我用的安卓v2rayNG，下载网址：https://github.com/2dust/v2rayNG/releases
 文件名：app-arm64-v8a-release.apk）
 
-反正就是原大佬的youtube频道，我就是Fork一下，描述改一下，再Docker一下：https://www.youtube.com/channel/UClceV39J1Z_9D4_mHkBZrMg
+大佬豆豆兵tech的youtube频道，我就是Fork一下，描述改一下，再Docker一下：https://www.youtube.com/channel/UClceV39J1Z_9D4_mHkBZrMg
 
