@@ -56,7 +56,7 @@ Docker 镜像搜索：2822590253/osv2y       OR         doudoubing/cundang 2选1
 (帮你们省去这一步骤了)
 
 客户端： android Actinium、windows v2ray 可用同一个服务端。
-（我用的安卓v2rayNG，下载网址：https://github.com/2dust/v2rayNG/releases
+（我用的安卓v2rayNG，下载网址：https://github.com/China-Qingshao/v2rayNG/releases
 文件名：app-arm64-v8a-release.apk）
 
 大佬豆豆兵tech的youtube频道，我就是Fork一下，描述改一下，再Docker一下：https://www.youtube.com/channel/UClceV39J1Z_9D4_mHkBZrMg
